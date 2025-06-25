@@ -7,7 +7,7 @@ body {
 .login {
     max-width: 500px;
     margin: auto;
-    background: white;
+    background: #fcfefd;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -15,7 +15,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #2c3e50;
+    color: #161717a5;
 }
 
 label {
